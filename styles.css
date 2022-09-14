@@ -26,7 +26,8 @@ main {
   margin: auto;
   display: grid;
   gap: 24px;
-  margin-top: 32px
+  margin-top: 32px;
+  margin-bottom: 32px
 }
 
 section {
