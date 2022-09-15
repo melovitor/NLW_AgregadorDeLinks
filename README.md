@@ -1,3 +1,19 @@
-# NLW eSports Agregador de links
-Fala Dev. 
-Sempre quis falar isso kkkk, Bom esse rep foi criado para acompanhar a trilha explorer da nova NLW eSports do qual o intuito é criar um agregador de links do zero.
+# NLW eSports 
+![preview](./assets/preview.png)
+
+
+>> Trilha Explorer
+
+Projeto construido no evento NLW (Next Level Week) da @Rocketseat
+
+[🔗Clique para acessar](https://melovitor.github.io/NLW_AgregadorDeLinks/)
+
+## 🛠️ Tecnologias
+
+- HTML
+- CSS 
+- Git e Github
+
+## 💜 Contato
+
+vitormelobatista@gmail.com  
