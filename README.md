@@ -3,7 +3,7 @@
 ![preview](./assets/preview.png)
 
 
-> Trilha Explorer
+# > Trilha Explorer
 
 Projeto construido no evento NLW (Next Level Week) da @Rocketseat.
 
