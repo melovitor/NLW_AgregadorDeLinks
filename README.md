@@ -1,18 +1,18 @@
-# NLW eSports 
-[🔗Clique para acessar](https://melovitor.github.io/NLW_AgregadorDeLinks/)
+# NLW eSports  [🔗Clique para acessar](https://melovitor.github.io/NLW_AgregadorDeLinks/)
+
 ![preview](./assets/preview.png)
 
 
->> Trilha Explorer
+> Trilha Explorer
 
-Projeto construido no evento NLW (Next Level Week) da @Rocketseat
+Projeto construido no evento NLW (Next Level Week) da @Rocketseat.
 
-## 🛠️ Tecnologias
+## 🛠️ Tecnologias.
 
 - HTML
 - CSS 
 - Git e Github
 
-## 💜 Contato
+## 💜 Contato.
 
 vitormelobatista@gmail.com  
