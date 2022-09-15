@@ -1,4 +1,4 @@
-# NLW eSports  [🔗Clique para acessar](https://melovitor.github.io/NLW_AgregadorDeLinks/)
+# NLW eSports  [🔗Clique para acessar o projeto](https://melovitor.github.io/NLW_AgregadorDeLinks/)
 
 ![preview](./assets/preview.png)
 
